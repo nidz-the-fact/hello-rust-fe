@@ -1,9 +1,12 @@
 # Development
 
 **Preview**
-![img](https://github.com/nidz-the-fact/hello-rust-fe/blob/main/hello-rust-fe.png)
 
+![image](https://github.com/user-attachments/assets/ed56646f-339f-4031-a1b5-6ae8ddd94883)
 - Rust install: https://www.rust-lang.org/tools/install
+- Dioxus: https://dioxuslabs.com
+
+<br/>
 
 Your new bare-bones project includes minimal organization with a single `main.rs` file and a few assets.
 
