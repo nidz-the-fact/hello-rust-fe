@@ -1,5 +1,10 @@
 # Development
 
+**Preview**
+![img](https://github.com/nidz-the-fact/hello-rust-fe/blob/main/hello-rust-fe.png)
+
+- Rust install: https://www.rust-lang.org/tools/install
+
 Your new bare-bones project includes minimal organization with a single `main.rs` file and a few assets.
 
 ```
