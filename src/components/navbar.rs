@@ -1,6 +1,6 @@
 use dioxus::prelude::*;
 
-const CRAB_2: Asset = asset!("/assets/rust-2.svg");
+const RUST_LOGO: Asset = asset!("/assets/rust.png");
 
 #[component]
 pub fn Navbar() -> Element {
@@ -15,7 +15,7 @@ pub fn Navbar() -> Element {
                     class: "flex items-center space-x-2",
                     img {
                         class: "h-8 w-8",
-                        src: CRAB_2,
+                        src: RUST_LOGO,
                     }
                     span {
                         class: "text-xl font-bold",

@@ -1,7 +1,7 @@
 use dioxus::prelude::*;
-use components::{ hero::Hero, navbar::Navbar};
+use components::{hero::Hero, navbar::Navbar};
 
-const FAVICON: Asset = asset!("/assets/rust-2.svg");
+const FAVICON: Asset = asset!("/assets/rust.png");
 const MAIN_CSS: Asset = asset!("/assets/main.css");
 const TAILWIND_CSS: Asset = asset!("/assets/tailwind.css");
 
